@@ -1,0 +1,6 @@
+{
+  "name": "Intercom.js",
+  "version": "1.0.0",
+  "license": "Apache License, Version 2.0",
+  "description": "Cross-Window Message Broadcast Interface"
+}
